@@ -1,0 +1,18 @@
+{
+  "name": "wizMarkdown4sugoiOverload",
+  "version": "1.0.0",
+  "homepage": "https://github.com/jackyzhen/wizMarkdown",
+  "authors": [
+    "jackyzhen <jacky.s.zhen@gmail.com>"
+  ],
+  "description": "fork of wizMarkdown v1.2.0 with proper bower.json",
+  "main": "./wizMarkdown/wizMarkdown.js",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
